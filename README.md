@@ -15,6 +15,4 @@ Dritter! :)
 
 Überarbeitet
 
-## Neuer Abschnitt
-Erstellt in feature branch
-
+Huhu!

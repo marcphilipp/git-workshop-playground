@@ -12,8 +12,7 @@ Zweiter! :)
 Dritter! :)
 
 ## Fazit
-
-Irgendwer
+Überarbeitet
 
 ## Neuer Abschnitt
 Erstellt in feature branch
